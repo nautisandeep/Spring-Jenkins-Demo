@@ -14,7 +14,7 @@
 	<name>Spring-Jenkins-Demo</name>
 	<description>spring with jenkins integration</description>
 
-	<properties> <!-- Hello -->
+	<properties> <!-- Hello World -->
 		<java.version>1.8</java.version>
 		<vaadin.version>14.1.3</vaadin.version>
 	</properties>
